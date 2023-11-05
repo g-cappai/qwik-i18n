@@ -46,7 +46,7 @@ export default component$((props: { name: string }) => {
 
 ### Extracting string for translation
 
-The first step in translation is to build the application. Once the artifacts are build the the strings can be extracted for translation.
+The first step in translation is to build the application. Once the artifacts are build the strings can be extracted for translation.
 
 ```bash
 npm run build.client
